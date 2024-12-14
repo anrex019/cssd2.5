@@ -1,9 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 #headerdiv {
     margin-bottom: 94px;
 
@@ -92,7 +86,7 @@
 #cardsthreediv {
     max-width: 1184px;
     display: inline-block;
-    height: 589px;
+
     margin-top: 32px;
 }
 
@@ -223,4 +217,120 @@
 #checkfive {
     margin: 16px;
     margin-left: 32px;
+}
+
+#middlediv {
+    max-width: 1248px;
+    margin-top: 64px;
+    padding: 32px 0px;
+    align-items: center;
+    border-radius: 24px;
+    background: #FFF;
+}
+
+#middleheading {
+    width: 768px;
+    margin: 0 auto;
+}
+
+#middleh {
+    color: #181D27;
+    text-align: center;
+    font-size: 40px;
+}
+
+#middlep {
+    color: #535862;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+
+}
+
+#midlcontainer {
+    width: 768px;
+    margin-top: 32px;
+    margin: 0 auto;
+    border-radius: var(--spacing-xl, 16px);
+    background: #E4E4E4;
+
+}
+
+#middletextcontainer {
+    width: 704px;
+    margin: 0 auto;
+    padding: 32px;
+
+}
+
+#wrap {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#trial,
+#can,
+#policy,
+#offer,
+#billing,
+#change {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 24px;
+}
+
+#possible,
+#change,
+#our,
+#yes,
+#additional,
+#account {
+    color: #535862;
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 35px;
+}
+
+#midlcontainertwo {
+    border-radius: 16px;
+    border: 2px solid #FF2323;
+    background: #FFE5E5;
+    margin: 0 auto;
+    width: 768px;
+    margin-top: 16px;
+}
+
+#midlecontainerthree {
+    width: 768px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background: #E9D7FF;
+    margin-top: 16px;
+
+}
+
+#midlecontainerfour {
+    width: 768px;
+    border-radius: 16px;
+    background: #F7F4FF;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+#midlecontainerfive {
+    width: 768px;
+    border-radius: 16px;
+    border: 4px solid #326DFF;
+    background: #DCE6FF;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+#midlecontainerseven {
+    width: 768px;
+    border-radius: 16px;
+    background: #FFD5E7;
+    margin: 0 auto;
+    margin-top: 16px;
+    
 }
