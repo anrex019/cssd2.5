@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#headerdiv {
+    margin-bottom: 94px;
+
+}
+
+#navimg {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 35%;
+    width: 100%;
+}
+
+#menudiv {
+    display: inline-block;
+    max-width: 28%;
+    font-size: 18px;
+    vertical-align: middle;
+    width: 100%;
+    text-align: center;
+}
+
+#Pricing {
+    display: inline-block;
+}
+
+#FAQ {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#Our-reviews {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#buttonDiv {
+    display: inline-block;
+    width: 100%;
+    max-width: 35%;
+    text-align: end;
+}
+
+#button {
+    display: inline-block;
+    border-radius: 8px;
+    border: 1px #6941C6 solid;
+    padding: 8px 16px;
+    color: white;
+    background-color: #6941C6;
+}
+
+#maindiv {
+    max-width: 1440px;
+    padding: 96px;
+    align-items: center;
+    background: #F1E8FF;
+    margin: 0 auto;
+
+}
+
+#cardsdiv {
+    max-width: 1248px;
+    align-items: center;
+    padding: 0 32px;
+    margin: 0 auto;
+}
+
+#cardshead {
+    width: 768px;
+    margin: 0 auto;
+}
+
+#cardshead h1 {
+    text-align: center;
+}
+
+#simple {
+    text-align-last: center;
+    display: inline-block;
+    width: 100%;
+    font-size: 24px;
+    max-width: 768px;
+    margin-top: 20px;
+}
+
+#cardsthreediv {
+    max-width: 1184px;
+    display: inline-block;
+    height: 589px;
+    margin-top: 32px;
+}
+
+#cardsone {
+    height: 589px;
+    border-radius: var(--radius-2xl, 16px);
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    display: inline-block;
+
+}
+
+#cardslittle {
+    padding: 40px;
+}
+
+#Basicbtn,
+#Business,
+#Enterprise {
+    align-items: center;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+#tendlr,
+#tdlr,
+#fdlr {
+    color: #181D27;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 20px;
+
+}
+
+#popular,
+#Growing,
+#Advanced {
+    color: #535862;
+    text-align: center;
+    margin-top: 8px;
+    font-size: 16px;
+
+}
+
+#btn {
+    text-align: center;
+}
+
+#started {
+    width: 273px;
+    padding: var(--spacing-lg, 12px) 18px;
+    align-items: center;
+    border-radius: var(--radius-md, 8px);
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    background: #7F56D9;
+    margin-top: 16px;
+
+}
+
+#sales {
+    padding: var(--spacing-lg, 12px) 18px;
+    align-items: center;
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    margin-top: 16px;
+    width: 273px;
+}
+
+
+
+
+#checkone {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#textone,
+#texttwo,
+#textthree,
+#textfour,
+#textfive,
+#lastone,
+#lasttwo,
+#lastthree,
+#lastfour,
+#lastfive {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#liststwo,
+#liststhree,
+#listsfour,
+#listsfive,
+#listsone {
+    margin: 16px;
+    margin-left: 32px;
+}
+
+#cardsfourdiv {
+    max-width: 1184px;
+    display: inline-block;
+    height: 589px;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+#textdivone,
+#textdivtwo,
+#textdivthree,
+#textdivfour,
+#textdivfive {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#checklastone,
+#checktwo,
+#checkthree,
+#checkfour,
+#checkfive {
+    margin: 16px;
+    margin-left: 32px;
+}
