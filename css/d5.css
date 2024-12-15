@@ -91,7 +91,6 @@
 }
 
 #cardsone {
-    height: 589px;
     border-radius: var(--radius-2xl, 16px);
     border: 1px solid #E9EAEB;
     background: #FFF;
@@ -228,18 +227,21 @@
     background: #FFF;
 }
 
-#middleheading {
+#middleheading,
+#midleheadinglast {
     width: 768px;
     margin: 0 auto;
 }
 
-#middleh {
+#middleh,
+#reviews {
     color: #181D27;
     text-align: center;
     font-size: 40px;
 }
 
-#middlep {
+#middlep,
+#middleplast {
     color: #535862;
     text-align: center;
     font-size: 24px;
@@ -332,5 +334,44 @@
     background: #FFD5E7;
     margin: 0 auto;
     margin-top: 16px;
-    
+
+}
+
+#lastdiv {
+    max-width: 1248px;
+    padding: 32px 0px;
+    border-radius: 24px;
+    background: #FFF;
+    height: 700px;
+    margin-top: 64px;
+
+}
+
+#boxone {
+    max-width: 1184px;
+    padding: 32px;
+}
+
+#boxcontainerone {
+    width: 580px;
+    display: inline-block;
+    border-radius: var(--radius-xl, 12px);
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    text-align: start;
+    padding: 0 32px;
+
+}
+
+#boxpone {
+        width: 516px;
+ 
+}
+
+#avatarone {
+    margin-top: 80px;
+}
+
+#lastimgdiv {
+    max-width: 516px;
 }
