@@ -336,42 +336,305 @@
     margin-top: 16px;
 
 }
-
-#lastdiv {
-    max-width: 1248px;
+#reviewContainer {
     padding: 32px 0px;
+    max-width: 1248px;
+    width: 100%;
     border-radius: 24px;
     background: #FFF;
-    height: 700px;
     margin-top: 64px;
+}
+
+#review {
+    color: #181D27;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
 
 }
 
-#boxone {
-    max-width: 1184px;
+#fistHandCostumers {
+    color: #535862;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+#siennaHewitBox {
+    max-width: 580px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    margin-top: 64px;
+    margin-left: 32px;
+    height: 256px;
+    display: inline-block;
     padding: 32px;
 }
 
-#boxcontainerone {
+#siennaHewitBoxxx {
     width: 580px;
-    display: inline-block;
-    border-radius: var(--radius-xl, 12px);
+    border-radius: 12px;
     border: 1px solid #E9EAEB;
     background: #FFF;
-    text-align: start;
-    padding: 0 32px;
+    margin-top: 64px;
+    margin-left: 32px;
+    height: 256px;
+    display: inline-block;
+    padding: 32px;
 
 }
 
-#boxpone {
-        width: 516px;
- 
+#newProject {
+    color: #181D27;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
 }
 
-#avatarone {
-    margin-top: 80px;
+#contentP {
+    margin-top: 82px;
+    vertical-align: middle;
+    display: inline-block;
 }
 
-#lastimgdiv {
-    max-width: 516px;
+#sienna {
+    display: inline-block;
+    color: #181D27;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    vertical-align: middle;
+
+}
+
+#pphoto {
+    vertical-align: middle;
+}
+
+#tick {
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+#project {
+    vertical-align: middle;
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#verificationBox {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 12px;
+}
+
+#phototext {
+    display: inline-block;
+    margin-left: 120px;
+}
+
+#kaitlynkingbox {
+    max-width: 580px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    margin-top: 64px;
+    margin-left: 32px;
+    height: 256px;
+    display: inline-block;
+    padding: 32px;
+}
+
+#essentialPart {
+    color: #181D27;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+#caitlynInfo {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 12px;
+}
+
+#kaitlyn {
+    display: inline-block;
+    color: #181D27;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    vertical-align: middle;
+}
+
+#ppphoto {
+    vertical-align: middle;
+}
+
+#tickkk {
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+#cooDeo {
+    vertical-align: middle;
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#phototextt {
+    display: inline-block;
+    margin-left: 180px;
+}
+
+#tickk {
+    vertical-align: middle;
+    margin: 4px;
+}
+
+#projectStarts {
+    color: #181D27;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+#contactP {
+    margin-top: 82px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#ollyScho {
+    width: 580px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    margin-top: 64px;
+    margin-left: 32px;
+    height: 256px;
+    display: inline-block;
+    padding: 32px;
+}
+
+#olly {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 12px;
+}
+
+#ollySchroeder {
+    display: inline-block;
+    color: #181D27;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    vertical-align: middle;
+}
+
+#tickkkk {
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+#phhoto {
+    vertical-align: middle;
+}
+
+#designer {
+    vertical-align: middle;
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#phototexttt {
+    display: inline-block;
+    margin-left: 180px;
+}
+
+#rileyBox {
+    width: 580px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    margin-top: 64px;
+    margin-left: 32px;
+    height: 256px;
+    display: inline-block;
+    padding: 32px;
+}
+
+#untiltedStream {
+    color: #181D27;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+#contactt {
+    margin-top: 82px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#riley {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 12px;
+}
+
+#rileyOmoore {
+    display: inline-block;
+    color: #181D27;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    vertical-align: middle;
+}
+
+#photto {
+    vertical-align: middle;
+}
+
+#tickPhoto {
+    margin-left: 4px;
+    vertical-align: middle;
+}
+
+#Engineer {
+    vertical-align: middle;
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+#photoBoxx {
+    display: inline-block;
+    margin-left: 160px;
 }
